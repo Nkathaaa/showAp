@@ -1,0 +1,39 @@
+{
+  "name": "showup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.19.1",
+    "concurrently": "^7.0.0",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^14.2.0",
+    "express": "^4.17.2",
+    "mongodb": "^4.3.1",
+    "mongoose": "^6.1.5",
+    "nodemon": "^2.0.15",
+    "react-redux": "^7.2.6",
+    "redux": "^4.1.2",
+    "validator": "^13.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/server.js",
+    "server": "nodemon server/server.js"
+  },
+  "engines": {
+    "node": "14.15.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nkathaaa/showUp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nkathaaa/showUp/issues"
+  },
+  "homepage": "https://github.com/Nkathaaa/showUp#readme"
+}

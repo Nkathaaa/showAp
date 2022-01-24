@@ -1,0 +1,19 @@
+.hero_Jumbotron
+{
+    background-color:#FAF0F0!important;
+    height:70vh;
+}
+.hero_Jumbotron img {
+    height:62vh;
+}
+#leftSide p{
+    font-size:48px ;
+    font-weight: 400;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center!important;
+}
+#leftSide a{
+    background-color:#D349AD !important ;
+    color:white;
+}

@@ -1,0 +1,30 @@
+#signUpLeft{
+
+    height:70vh
+
+}
+
+
+#signUpLeft p{
+    font-size:48px ;
+    font-weight: 400;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center!important;
+}
+
+.buttoncolor{
+   background-color:#D349AD;
+   color:white
+
+}
+
+
+@media(min-width: 768px){
+  .leftImage
+{
+    width:40vw;
+    height:70vh;
+}
+
+  }
